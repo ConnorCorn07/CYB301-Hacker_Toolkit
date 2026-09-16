@@ -16,17 +16,28 @@ Metasploit/Meterpreter --> https://www.metasploit.com/download
 DirBuster --> https://www.kali.org/tools/dirbuster/
           --> Seeks out hidden directories or files on web servers. Can brute force some things with dictionary attacks.
 
-Ansible --> 
+Ansible --> https://docs.ansible.com/
            -->
 
-Bettercap -->
+Bettercap --> https://www.bettercap.org/
            -->
            
-Wireshark -->
+Wireshark --> https://www.wireshark.org/
            -->
 
-Aircrack NG -->
+Aircrack NG --> https://www.aircrack-ng.org/ 
            -->
+
+CEWL --> https://www.kali.org/tools/cewl/
+           -->
+
+
+
+
+
+### Network Attacks:
+
+           - 
 
 
 ### Top Tier Certifications
