@@ -17,21 +17,22 @@ DirBuster --> https://www.kali.org/tools/dirbuster/
           --> Seeks out hidden directories or files on web servers. Can brute force some things with dictionary attacks.
 
 Ansible --> https://docs.ansible.com/
-           -->
+           --> Automation language, perform virtually any IT task and remove complexity from workflows
 
-Bettercap --> https://www.bettercap.org/
-           -->
+Bettercap --> https://www.kali.org/tools/bettercap/
+           --> The Swiss Army knife for WiFi, Bluetooth Low Energy, wireless HID hijacking, CAN-bus and IPv4 and IPv6 networks reconnaissance and MITM attacks.
            
 Wireshark --> https://www.wireshark.org/
-           -->
+           --> Packet Tracker, lets you see all traffic going in and out around
 
 Aircrack NG --> https://www.aircrack-ng.org/ 
            -->
 
 CEWL --> https://www.kali.org/tools/cewl/
+           --> Custom word list generator, can be used for password cracking. Spiders a given URL, up to a specified depth, and returns a list of words
+
+Beef --> 
            -->
-
-
 
 
 
