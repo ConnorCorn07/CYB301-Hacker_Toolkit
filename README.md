@@ -33,6 +33,13 @@ CEWL --> https://www.kali.org/tools/cewl/
 
 Beef --> 
            -->
+           
+Responder --> 
+           --> Offense and Defence sided. Capture authentication packets, open source
+
+Endpoint -->
+           -->
+
 
 
 
