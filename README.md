@@ -4,8 +4,10 @@
 
 ### A list of tools we use when performing ethical hacking exercises
 
-Kali Linux --> https://www.kali.org/
-           --> Operating System, 
+| Name | Link | Category | Description|
+| --- | --- | --- | --- |
+| Kali Linux | https://www.kali.org/ | ___ | Operating System, |
+
 
 Hash Cat --> https://github.com/hashcat/hashcat
          --> "Password Recovery" tool that allows users to crack passwords on a physical machine. Requires the access to the local/physical machine, but is the worlds fastest and has many features.
