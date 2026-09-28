@@ -17,19 +17,10 @@
 | Aircrack NG | https://www.aircrack-ng.org/ | ___ | ___ |
 | CEWL | https://www.kali.org/tools/cewl/ | ___ | Custom word list generator, can be used for password cracking. Spiders a given URL, up to a specified depth, and returns a list of words. |
 | Beef | ___ | ___ | ___ |
-           
-Responder --> 
-           --> Offense and Defence sided. Capture authentication packets, open source
-
-Endpoint -->
-           -->
-
-
-
-
-### Network Attacks:
-
-           - 
+| Responder | ___ | ___ | Offense and Defence sided. Capture authentication packets, open source |
+| Endpoint | ___ | ___ | ___ |
+| NMAP | https://nmap.org/ | ___ | ___ | 
+| OpenVAS | OpenVAS/Greenbone | ___ | ___ |
 
 
 ### Top Tier Certifications
