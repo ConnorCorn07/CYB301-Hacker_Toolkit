@@ -7,16 +7,10 @@
 | Name | Link | Category | Description|
 | --- | --- | --- | --- |
 | Kali Linux | https://www.kali.org/ | ___ | Operating System, |
+| Hash Cat | https://github.com/hashcat/hashcat | Password Auditing/Vulnerability Assessment | "Password Recovery" tool that allows users to crack passwords on a physical machine. Requires the access to the local/physical machine, but is the worlds fastest and has many features.
+| Metasploit/Meterpreter | https://www.metasploit.com/download | ___ | Used for penetration testing and ethical hacking, Has a tool of array of functions.
+| DirBuster | https://www.kali.org/tools/dirbuster/ | ___ | Seeks out hidden directories or files on web servers. Can brute force some things with dictionary attacks. | 
 
-
-Hash Cat --> https://github.com/hashcat/hashcat
-         --> "Password Recovery" tool that allows users to crack passwords on a physical machine. Requires the access to the local/physical machine, but is the worlds fastest and has many features.
-
-Metasploit/Meterpreter --> https://www.metasploit.com/download
-                       --> Used for penetration testing and ethical hacking, Has a tool of array of functions.
-
-DirBuster --> https://www.kali.org/tools/dirbuster/
-          --> Seeks out hidden directories or files on web servers. Can brute force some things with dictionary attacks.
 
 Ansible --> https://docs.ansible.com/
            --> Automation language, perform virtually any IT task and remove complexity from workflows
