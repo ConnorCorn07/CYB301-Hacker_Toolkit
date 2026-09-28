@@ -1,6 +1,6 @@
 # CYB301-Hacker_Toolkit
 
-## Connor Theiss - Sophomore @ Immauclata University
+## Connor Theiss - Immauclata University
 
 ### A list of tools we use when performing ethical hacking exercises
 
@@ -47,18 +47,4 @@ Beef -->
         - CCNA - Gold Standard - Amazing to start out with
         - COMP TIA Network + - Barebones
     - Afterwards: 
-        - 
-        - 
-
-
-### Job Titles - Networking
-    - First Year:
-        - Tech Support
-        - Junior Network manager
-        - 
-    - Second-Thrid Year:
-        - 
-        - 
-    - 4th-6th Year
-        - 
         - 
