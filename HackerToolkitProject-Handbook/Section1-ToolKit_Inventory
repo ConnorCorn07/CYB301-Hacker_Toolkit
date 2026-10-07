@@ -7,9 +7,20 @@
 | Metasploit/Meterpreter |
 
 
-Tool Name:
+Tool Name: 
 Primary purpose:
-Category:
+Category: 
+    Reconnaissance
+    Network Analysis
+    Vulnerability Assessment
+    Password Auditing
+    Web Application Testing
+    Wireless Security
+    Digital Forensics
+    Log Analysis
+    Incident Response
+    Malware Analysis
+
 Platform(s) supported:
 Typical use cases:
 Download/source location:
@@ -17,3 +28,8 @@ Strengths and limitations:
 
 
 Later import this into a table
+
+
+DirBuster
+Seeks out hidden directories or files on web servers. Can brute force some things with dictionary attacks.
+
