@@ -1,7 +1,7 @@
 # Section 1 of Hacker Toolkit Project: Tool Inventory
+## Connor J. Theiss
 
-
-Requirements:
+- Requirements:
     - Tool Name: 
     - Primary purpose:
     - Category: 
@@ -20,30 +20,168 @@ Requirements:
     - Download/source location:
     - Strengths and limitations:
 
-DirBuster
-Seeks out hidden directories or files on web servers. Can brute force some things with dictionary attacks.
-Web Application Testing / Reconnaissance
-It is a java based tool, so can work anything that runs java (Linux, Windows, and Mac are all suported with java runtime installs)
-Authorized security assessments, 
-https://www.kali.org/tools/dirbuster/
----
 
+- Tool 1: DirBuster
+    - 
+    - https://www.kali.org/tools/dirbuster/
+    - Seeks out hidden directories or files on web servers. Can brute force some things with dictionary attacks.
+    - Categorie(s)
+        - Web Application Testing
+        - Reconnaissance
+        - Pen Testing
+    - It is a java based tool, so can work anything that runs a Java Runtime (JRE)
+        - Linux
+        - Windows
+        - Mac
+    - Use Case(s)
+        - Authorized security assessments, 
+    - Strengths / Limits:
+        - Strenghts:
+            - Multi-threaded
+            - Ships with large built-in wordlists
+            - Supports recursive scanning, file extension fuzzing, and pure brute force mode
+            - Free and open source
+            - Beginner Friendly
+        - Limits
+            - Effectively unmaintained; the last release dates back many years
+            - Java GUI is heavier than CLI alternatives
+            - Weaker handling of modern setups
+            - Faster, more flexible alternatives exist
 
+- Tool 2: 
+    - Hash Cat:
+    - https://github.com/hashcat/hashcat
+    - Crack passwords on a physical machine, "Password Recovery"
+    - Categorie(s)
+        - Password Auditing
+        - Vulnerability Assessment
+        - Pen Testing
+    - 
+    - Use Case(s)
+        -
+    - Strengths / Limits:
+        - Strenghts:
+            -
+            -
+        - Limits
+            -
+            -
 
+- Tool 4:
+    - 
+    - 
+    - Categorie(s)
+        -
+    - 
+    - Use Case(s)
+        -
+    - 
+    - Strengths / Limits:
+        - Strenghts:
+            -
+            -
+        - Limits
+            -
+            -
 
+- Tool 5:
+    - 
+    - 
+    - Categorie(s)
+        -
+    - 
+    - Use Case(s)
+        -
+    - 
+    - Strengths / Limits:
+        - Strenghts:
+            -
+            -
+        - Limits
+            -
+            -
 
+- Tool 6:
+    - 
+    - 
+    - Categorie(s)
+        -
+    - 
+    - Use Case(s)
+        -
+    - 
+    - Strengths / Limits:
+        - Strenghts:
+            -
+            -
+        - Limits
+            -
+            -
 
+- Tool 7:
+    - 
+    - 
+    - Categorie(s)
+        -
+    - 
+    - Use Case(s)
+        -
+    - 
+    - Strengths / Limits:
+        - Strenghts:
+            -
+            -
+        - Limits
+            -
+            - 
 
+- Tool 8:
+    - 
+    - 
+    - Categorie(s)
+        -
+    - 
+    - Use Case(s)
+        -
+    - 
+    - Strengths / Limits:
+        - Strenghts:
+            -
+            -
+        - Limits
+            -
+            -
 
+- Tool 9:
+    - 
+    - 
+    - Categorie(s)
+        -
+    - 
+    - Use Case(s)
+        -
+    - 
+    - Strengths / Limits:
+        - Strenghts:
+            -
+            -
+        - Limits
+            -
+            -
 
-
-
-
-
-
-
-
-
-| Tool Name | Primary Purpose | Category | Platform(s) Supported | Typical Use Cases | Download Location |
-| --- |
-| DirBuster | Seeks | Web Application Testing / Reconnaissance | Linux, Windows, Mac | Authorized security assessments | https://www.kali.org/tools/dirbuster/ | --- | 
+- Tool 10:
+    - 
+    - 
+    - Categorie(s)
+        -
+    - 
+    - Use Case(s)
+        -
+    - 
+    - Strengths / Limits:
+        - Strenghts:
+            -
+            -
+        - Limits
+            -
+            -
