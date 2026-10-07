@@ -1,35 +1,49 @@
 # Section 1 of Hacker Toolkit Project: Tool Inventory
 
-| Tool Name | Primary Purpose | Category | Platform(s) Supported | Typical Use Cases | Download Location |
-| --- |
-| DirBuster |
-| Hash Cat |
-| Metasploit/Meterpreter |
 
-
-Tool Name: 
-Primary purpose:
-Category: 
-    Reconnaissance
-    Network Analysis
-    Vulnerability Assessment
-    Password Auditing
-    Web Application Testing
-    Wireless Security
-    Digital Forensics
-    Log Analysis
-    Incident Response
-    Malware Analysis
-
-Platform(s) supported:
-Typical use cases:
-Download/source location:
-Strengths and limitations:
-
-
-Later import this into a table
-
+Requirements:
+    - Tool Name: 
+    - Primary purpose:
+    - Category: 
+        - Reconnaissance
+        - Network Analysis
+        - Vulnerability Assessment
+        - Password Auditing
+        - Web Application Testing
+        - Wireless Security
+        - Digital Forensics
+        - Log Analysis
+        - Incident Response
+        - Malware Analysis
+    - Platform(s) supported:
+    - Typical use cases:
+    - Download/source location:
+    - Strengths and limitations:
 
 DirBuster
 Seeks out hidden directories or files on web servers. Can brute force some things with dictionary attacks.
+Web Application Testing / Reconnaissance
+It is a java based tool, so can work anything that runs java (Linux, Windows, and Mac are all suported with java runtime installs)
+Authorized security assessments, 
+https://www.kali.org/tools/dirbuster/
+---
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+| Tool Name | Primary Purpose | Category | Platform(s) Supported | Typical Use Cases | Download Location |
+| --- |
+| DirBuster | Seeks | Web Application Testing / Reconnaissance | Linux, Windows, Mac | Authorized security assessments | https://www.kali.org/tools/dirbuster/ | --- | 
